@@ -1,0 +1,22 @@
+
+/*
+ * to define a variable we need
+ * 
+ * 
+ *     OPTIONAL  			 OPTIONAL      MUST   MUST 
+ *  access modifier non access modifier  dataType name
+ * 
+ */
+
+
+
+/* to define a method we need
+ * 
+ * 		OPTIONAL	        OPTIONAL	         MUST       MUST  
+ *   access modifier    non access modifier   returnType    name ()
+ * 
+ */
+ 
+ Access Modifiers --> methods, class, constructors, variable
+ 
+ public --> protected --> default --> private

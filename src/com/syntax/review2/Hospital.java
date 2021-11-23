@@ -6,7 +6,7 @@ public class Hospital {
 		
 		Doctor.hospital="Inova";
 		
-		Doctor doctor1=new Doctor("John", "Smith", "Dentist", 200000 );
+		Doctor doctor1=new Doctor("John", "Smith", "Dentist");
 		doctor1.printInfo();
 		doctor1.work();
 	
